@@ -4,7 +4,7 @@ function renderLicenseBadge(data) {
     if (!data.License) {
         return '';
     }
-    return `[${data.License}]`
+    return `![license](https://img.shields.io/badge/${data.License}-message-red)`
 }
 // renderLicenseBadge();
 
@@ -14,7 +14,8 @@ function renderLicenseLink(data) {
     if (!data.License) {
         return '';
     }
-    return `[${data.License}]`
+    return `
+        https://choosealicense.com/`
 }
 // renderLicenseLink();
 
@@ -46,9 +47,8 @@ ${data.Description}
 The following necessary dependencies must be installed to run the applications: ${data.Installation}
 # Usage
 In order to use this app, ${data.Usage}
-# License
 ${renderLicenseSection(data)}
-${renderLicenseLink(data)}
+    ${renderLicenseLink(data)}
 ${renderLicenseBadge(data)}
 # Contributors: ${data.Contribution}
 # Tests

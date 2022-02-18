@@ -14,10 +14,10 @@ The following necessary dependencies must be installed to run the applications:
 # Usage
 In order to use this app, 
 # License
-# License
         This project is licensed under the GNU license.
-[GNU]
-[GNU]
+    
+        https://choosealicense.com/
+![license](https://img.shields.io/badge/GNU-message-red)
 # Contributors: 
 # Tests
 The following is needed to run the test: 
