@@ -18,7 +18,7 @@ const questions = [{
     },
     {
         type: "input",
-        message: "What does the user need to install to run this app?",
+        message: "What dependencies does the user need to install to run this app?",
         name: "Installation"
     },
     {
@@ -45,7 +45,7 @@ const questions = [{
     },
     {
         type: "input",
-        message: "How would you test this application?",
+        message: "What is needed to run a test with your project?",
         name: "Tests"
     },
     {
