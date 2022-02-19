@@ -1,4 +1,4 @@
-# README-genertaor
+# Third Generation Readme
 
 https://github.com/adrianhenry15/README-Generator
 
