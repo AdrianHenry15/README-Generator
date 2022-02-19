@@ -24,6 +24,10 @@ The following necessary dependencies must be installed to run the applications: 
 
 In order to use this app, you need a computer, a terminal, and node.js
 
+Watch This Video for how to use this application:
+
+https://youtu.be/bjM-4c8beqY
+
 # License
 
         This project is licensed under the MIT license.
@@ -32,7 +36,8 @@ In order to use this app, you need a computer, a terminal, and node.js
 
 ![license](https://img.shields.io/badge/MIT-license-red)
 
-# Contributors: Adrian Henry
+# Contributors: 
+Adrian Henry
 
 # Tests
 
