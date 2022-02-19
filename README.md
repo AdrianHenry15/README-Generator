@@ -1,10 +1,10 @@
-# README-Generator
+# README-genertaor
 
 https://github.com/adrianhenry15/README-Generator
 
 # Description
 
-This application dynamically generates a Readme for a given project.
+This will dyncamicaly create a readme for each project given by user.
 
 # Table of Contents
 
@@ -14,16 +14,15 @@ This application dynamically generates a Readme for a given project.
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Questions](#questions)
+- [References](#references)
 
 # Installation
 
-The following necessary dependencies must be installed to run the applications: inquirer, npm, fs, package.json
+The following necessary dependencies must be installed to run the applications: Inquirer, npm, fs, package.json
 
 # Usage
 
-In order to use this app, This project can be used through the command-line.
-
-In order to use this app, Through the commandline
+In order to use this app, you need a computer, a terminal, and node.js
 
 # License
 
@@ -33,18 +32,16 @@ In order to use this app, Through the commandline
 
 ![license](https://img.shields.io/badge/MIT-license-red)
 
-# Contributors:
-
-Adrian Henry, UCF Coding Bootcamp
+# Contributors: Adrian Henry
 
 # Tests
 
-The following is needed to run the test: Fill oout the prompts given to you through the command-line.
+The following is needed to run the test: Command line and Node.js
 
 # Questions
 
 If you have any questions about the repo, open an issue or contact me on GitHub at adrianhenry15 or contact my email address at adrianhenry2115@gmail.com
 
-# References and Collaborators
+# References
 
-UCF Coding Bootcamp
+University of Central Florida
