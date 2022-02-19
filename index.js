@@ -29,7 +29,7 @@ const questions = [{
     {
         type: "input",
         message: "Add your references and collaborators here: ",
-        name: "Credits"
+        name: "References"
     },
     {
         type: "checkbox",

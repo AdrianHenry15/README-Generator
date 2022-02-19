@@ -43,7 +43,7 @@ ${data.Description}
 * [Contributors](#contributors)
 * [Tests](#tests)
 * [Questions](#questions)
-* [Credits](#credits)
+* [References](#references)
 # Installation
 The following necessary dependencies must be installed to run the applications: ${data.Installation}
 # Usage
@@ -56,8 +56,8 @@ ${renderLicenseBadge(data)}
 The following is needed to run the test: ${data.Tests}
 # Questions
 If you have any questions about the repo, open an issue or contact me on GitHub at ${data.GitHub} or contact my email address at ${data.Email}
-# References and Collaborators
-${data.Credits}`;
+# References
+${data.References}`;
 }
 
 module.exports = generateMarkdown;
