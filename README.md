@@ -7,7 +7,7 @@ This will dyncamicaly create a readme for each project given by user.
 # Table of Contents
 
 - [Installation](#installation)
-- [Usage & Tests](#usage&tests)
+- [Usage](#usage)
 - [Questions](#questions)
 
 # Installation
@@ -19,14 +19,11 @@ npm i
 node index 
 ```
 
-# Usage & Tests
+# Usage
 
 In order to use this app, you need a computer, a terminal, and node.js
 
-Watch This Video for how to use this application:
-
-https://youtu.be/bjM-4c8beqY
-
+Watch This [Video](https://youtu.be/bjM-4c8beqY) for how to use this application
 
 # Questions
 
