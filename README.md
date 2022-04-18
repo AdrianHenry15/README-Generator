@@ -5,10 +5,19 @@
 This will dyncamicaly create a readme for each project given by user.
 
 # Table of Contents
-
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Questions](#questions)
+
+# Usage
+
+In order to use this app, you need a computer, a terminal, and node.js
+
+![read_me_gen_api](https://user-images.githubusercontent.com/95331448/163889508-5ad0a204-c085-4c92-acb9-5977772ab613.png)
+
+![read_me_gen_2](https://user-images.githubusercontent.com/95331448/163889516-692e4920-dfdf-4b62-8a50-5d61e16967ab.png)
+
+Watch This [Video](https://youtu.be/bjM-4c8beqY) for how to use this application
 
 # Installation
 
@@ -18,12 +27,6 @@ cd readme-generator-api
 npm i 
 node index 
 ```
-
-# Usage
-
-In order to use this app, you need a computer, a terminal, and node.js
-
-Watch This [Video](https://youtu.be/bjM-4c8beqY) for how to use this application
 
 # Questions
 
